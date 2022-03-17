@@ -1,0 +1,13 @@
+C:\Users\Jim\Desktop\IT499_Capstone_Project\IT499_Database_Forms\bin\Debug\IT499_Database_Forms.exe.config
+C:\Users\Jim\Desktop\IT499_Capstone_Project\IT499_Database_Forms\bin\Debug\IT499_Database_Forms.exe
+C:\Users\Jim\Desktop\IT499_Capstone_Project\IT499_Database_Forms\bin\Debug\IT499_Database_Forms.pdb
+C:\Users\Jim\Desktop\IT499_Capstone_Project\IT499_Database_Forms\obj\Debug\IT499_Database_Forms.csproj.AssemblyReference.cache
+C:\Users\Jim\Desktop\IT499_Capstone_Project\IT499_Database_Forms\obj\Debug\IT499_Database_Forms.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jim\Desktop\IT499_Capstone_Project\IT499_Database_Forms\obj\Debug\IT499_Database_Forms.LoginForm.resources
+C:\Users\Jim\Desktop\IT499_Capstone_Project\IT499_Database_Forms\obj\Debug\IT499_Database_Forms.Properties.Resources.resources
+C:\Users\Jim\Desktop\IT499_Capstone_Project\IT499_Database_Forms\obj\Debug\IT499_Database_Forms.csproj.GenerateResource.cache
+C:\Users\Jim\Desktop\IT499_Capstone_Project\IT499_Database_Forms\obj\Debug\IT499_Database_Forms.csproj.CoreCompileInputs.cache
+C:\Users\Jim\Desktop\IT499_Capstone_Project\IT499_Database_Forms\obj\Debug\IT499_Database_Forms.exe
+C:\Users\Jim\Desktop\IT499_Capstone_Project\IT499_Database_Forms\obj\Debug\IT499_Database_Forms.pdb
+C:\Users\Jim\Desktop\IT499_Capstone_Project\IT499_Database_Forms\obj\Debug\IT499_Database_Forms.RegistrationForm.resources
+C:\Users\Jim\Desktop\IT499_Capstone_Project\IT499_Database_Forms\obj\Debug\IT499_Database_Forms.CustomerDashboard.resources
